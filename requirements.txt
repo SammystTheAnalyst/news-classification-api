@@ -1,7 +1,6 @@
-List of dependencies for the News Classification Model
-
-1. fastapi
-2. uvicorn
-3. scikit-learn
-4. joblib
-5. pandas
+fastapi
+uvicorn
+scikit-learn
+joblib
+pydantic
+pandas
